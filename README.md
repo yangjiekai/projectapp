@@ -1,3 +1,3 @@
 # projectapp
-html for webview , still working on it.
+html for webview of android app, still working on it.
 
